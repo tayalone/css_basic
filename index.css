@@ -1,3 +1,13 @@
+body {
+    background: url(http://www.psdmockups.com/wp-content/uploads/2013/03/bamboo-wood-flooring-texture.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+div {
+    background-color: rgba(247, 249, 249, 0.4)
+}
+
 #importCss {
     color: fuchsia
 }
@@ -15,5 +25,27 @@
 }
 
 #rgbaColor {
-    color: rgba(169, 204, 227, 0.5)
+    color: rgba(169, 204, 227, 0.7)
 }
+
+#bgBorder {
+    background-color: lightgray
+}
+
+#bgBorder p{
+    color: greenyellow
+}
+
+#bgBorder h2{
+/*
+    border-color: firebrick;
+    border-width: 5px;
+    border-style: solid
+*/
+    border: firebrick 5px solid;
+}
+
+#cssSelector li {
+    border: #85C1E9 5px solid;
+}
+
