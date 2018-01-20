@@ -1,0 +1,19 @@
+#importCss {
+    color: fuchsia
+}
+
+#constColor {
+    color: red
+}
+
+#hexColor {
+    color: #82E0AA
+}
+
+#rgbColor {
+    color: rgb(169, 204, 227)
+}
+
+#rgbaColor {
+    color: rgba(169, 204, 227, 0.5)
+}
